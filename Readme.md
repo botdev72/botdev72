@@ -35,8 +35,8 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-<!----  <a href="https://open.spotify.com/intl-id/track/6Hii26x3qDErVitnGW8QtO?si=dad2f7f5d21d4de4" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>-->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1K2YyMZUaSdj3fSLLXZQTi?utm_source=generator&theme=0" width="40%" height="30%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://open.spotify.com/intl-id/track/6Hii26x3qDErVitnGW8QtO?si=dad2f7f5d21d4de4" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<!--<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1K2YyMZUaSdj3fSLLXZQTi?utm_source=generator&theme=0" width="40%" height="30%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>-->
 </p>
 
 ------
